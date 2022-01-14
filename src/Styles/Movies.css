@@ -1,0 +1,34 @@
+.moviesContent {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    color: white;
+    background: rgba(95, 92, 92, 0.767);
+    border-radius: 5px;
+  }
+  
+.moviesContent h2 {
+    color: rgb(233, 248, 27);
+    background: transparent;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+  }
+  
+.moviesContent p {
+    background: transparent;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+};
+
+.moviesContent button {
+  border:none;
+}
+
+.moviesButton {
+  padding: 5px;
+  color:white;
+  font-family: 'Poppins', sans-serif;
+  border-radius: 5px;
+  border:2px solid yellow;
+  border-width: 1px;
+};
